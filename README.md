@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakib Al Shawon</h1>
-<h3 align="center">🚀 Fullstack Developer | MERN Stack | Machine Learning Enthusiast | Competitive Programmer 🚀
+<h3 align="center">💻 Fullstack Developer (MERN) |🤖 Machine Learning Explorer |🧑‍💻 Competitive Programmer |🚀 Learning, Building & Leveling Up
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib-al-shawon&label=Profile%20views&color=0e75b6&style=flat" alt="sakib-al-shawon" /> </p>
